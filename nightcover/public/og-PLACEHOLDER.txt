@@ -1,0 +1,7 @@
+Add your real Open Graph image here as: public/og.png (1200x630px)
+
+app/layout.tsx already references /og.png in its metadata for social share
+previews. Design one in your brand colours (stone background #F5F2EA, ink
+navy #13223B headline, deep green #2E4A3B or gold #A9824F accent) with the
+headline "Someone answers, after hours" and drop it in as public/og.png.
+This placeholder text file can then be deleted.

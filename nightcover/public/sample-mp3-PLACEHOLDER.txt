@@ -1,0 +1,6 @@
+Add your real audio file here as: public/sample.mp3
+
+The "What You Hear" section references /sample.mp3 directly. Record or
+source a ~60-second sample call (a booking call is specified in the brief),
+export as an MP3, and drop it in this folder with that exact filename.
+This placeholder text file can then be deleted.
